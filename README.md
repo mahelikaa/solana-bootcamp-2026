@@ -4,7 +4,7 @@ My journey building Solana programs using Rust + Anchor.
 
 ## Projects
 
-- Voting
+- On-chain Voting
 
 ## Stack
 
